@@ -1,4 +1,4 @@
-# MERN-JWT-AUTH
+# Mern-jwt-auth
 Built a simple register and login form to understand  MERN JWT authentication .
 
 
